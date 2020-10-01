@@ -82,7 +82,7 @@ Each response object has the following keys -
 
 2. **category** - the category you requested for.
 
-3. **data** - An array of objects each containing a news item for the category. Each object contains 
+3. **Data** - An array of objects each containing a news item for the category. Each object contains 
     * title 
     * content
     * author 
